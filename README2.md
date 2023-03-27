@@ -42,6 +42,7 @@ THEN I am able to successfully create, update, and delete data in my database
     - /products
 - User will be able to run GET, PUT, POST and DELETE on these routes. Please view the /routes folder for more details on specific functionality. 
 
+# HEROKU DEPLOY
 
 ## Future Development Ideas
 - Eventually I would like to hook up a front end via React to this server so a user has a nicer interface to view and manage their stock
@@ -49,5 +50,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 - Link to walkthrough video can be found here: 
+https://drive.google.com/file/d/17XdTWPIQ_fwMcfmYgtHJkDfZxOmWvlRA/view
+
 
 ## Screenshots
+Example of GET Request:
+![Sample Get request](./Assets/Sample-GET.jpeg)
