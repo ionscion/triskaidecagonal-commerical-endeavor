@@ -42,7 +42,9 @@ THEN I am able to successfully create, update, and delete data in my database
     - /products
 - User will be able to run GET, PUT, POST and DELETE on these routes. Please view the /routes folder for more details on specific functionality. 
 
-# HEROKU DEPLOY
+## HEROKU DEPLOY
+- This wasn't necessary but application has also been deployed to Heroku at: 
+https://radiant-spire-68138.herokuapp.com/
 
 ## Future Development Ideas
 - Eventually I would like to hook up a front end via React to this server so a user has a nicer interface to view and manage their stock
